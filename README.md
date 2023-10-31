@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Ivo Boero, seja bem vindo(a). 👋🏼
 Atualmente estudo Desenvolvimento Web e Mobile.
 
-<a href="https://ibb.co/rH0g9P0"><img src="https://i.ibb.co/PgjRkpj/Ivo-Dev-Ops.png" alt="Ivo-Dev-Ops" border="0"></a>
+![Imagem](https://i.postimg.cc/C5g0QdDg/Ivo-Dev-Ops.png)
 
 ### Contatos:
 
